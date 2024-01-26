@@ -1,7 +1,6 @@
 - Hi, I’m @adamDucken
-- I’m interested in web development
-- I’m currently learning React
-- I have web dev agency
+- I’m interested in web development, data analytics
+- I’m currently learning React, Nextjs, NumPy, Pandas
 
 <!---
 adamDucken/adamDucken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
