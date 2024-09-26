@@ -7,8 +7,8 @@ I'm a full stack developer, data guy.
 - I like algorithmic trading
 - I like data anaylsis, engineering
 
-Tools
--Pandas
--Numpy
--LightGBM
--PyTorch
+# Tools
+- Pandas
+- Numpy
+- LightGBM
+- PyTorch
