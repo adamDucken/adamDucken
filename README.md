@@ -12,4 +12,5 @@ I'm a full stack developer, data guy.
 - Numpy
 - LightGBM
 - PyTorch
+- scikit-learn
 - Optuna
