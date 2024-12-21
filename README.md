@@ -2,15 +2,15 @@
 
 I'm a full stack developer, data guy.
 - 3+ years of coding experience.
-- I like data science
-- I like quant finance
-- I like algorithmic trading
-- I like data anaylsis, engineering
+- I like building fullstack/blockchain stuff.
+- I like quant finance/algorithmic trading.
 
 # Tools
-- Pandas
-- Numpy
-- LightGBM
-- PyTorch
-- scikit-learn
-- Optuna
+- QF/Algo Trading - Pandas, PyTorch, scikit-learn, LightGBM, Optuna
+- Full Stack - Next js, React, Axum, PostgreSQL, Jest, Docker
+- Blockchain - Solana, Anchor
+
+# Languages
+- Rust
+- Type Script
+- Python
