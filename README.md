@@ -6,8 +6,8 @@ I'm a full stack developer, data guy.
 - I like quant finance/algorithmic trading.
 
 # Tools
-- QF/Algo Trading - Pandas, PyTorch, scikit-learn, LightGBM, Optuna
-- Full Stack - Next js, Node js, React, Axum, PostgreSQL, Jest, Docker
+- QF/Algo Trading - Pandas, PyTorch, scikit-learn, LightGBM, Optuna, ONNX Runtime
+- Full Stack - Next js, Node js, React, Axum, PostgreSQL, Jest, Docker, K8
 - Blockchain - Solana, Anchor
 
 # Languages
