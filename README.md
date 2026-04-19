@@ -1,16 +1,17 @@
 # Hi I'm Adam 
 
-I'm a full stack developer, data guy.
+I'm a full stack developer.
 - 3+ years of coding experience.
-- I like building fullstack/blockchain stuff.
-- I like quant finance/algorithmic trading.
+- I like building fullstack and blockchain stuff.
+- I like quant finance and algorithmic trading.
 
 # Tools
-- QF/Algo Trading - Pandas, PyTorch, scikit-learn, LightGBM, Optuna, ONNX Runtime
-- Full Stack - Next js, Node js, React, Axum, PostgreSQL, Jest, Docker, K8s
+- QF/Algo Trading - Pandas, LightGBM, Optuna, ONNX Runtime
+- Full Stack - Svelte Kit, Node js, Svelte, Axum, PostgreSQL, Docker
 - Blockchain - Solana, Anchor
 
 # Languages
 - Rust
 - Type Script
 - Python
+- SQL
